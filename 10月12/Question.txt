@@ -1,0 +1,21 @@
+1.讓使用者輸入四個不同長度的字串，並計算四個字串長度，比較四字串長度後，由大至小輸出跟字串長度
+
+範例：
+輸入：apple orange pineapple strawberry
+
+輸出：strawberry，10
+pineapple，9
+orange，6
+apple，5
+
+2.輸入一個字串，計算字串的長度(不可使用len)
+輸入：abcdefg
+輸出：7
+
+3.
+1）創建一個空list，score。
+2）在score中，讓使用者依序輸入10個數值。
+3）輸出list中，第三個元素的數值。
+4）輸出list中，第一到六個元素的值。
+5）在score的第二及第三個元素之間，插入一個數值。
+6）刪除score中的第一個元素。
